@@ -1,0 +1,22 @@
+.places__paragraph {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  max-width: 484px;
+  font-family: 'Inter-Regular';
+  font-style: normal;
+  font-size: 18px;
+  line-height: 163%;
+
+  color: #FFFFFF;
+}
+
+.places__paragraph:not(:last-child) {
+  margin-bottom: 27px;
+}
+
+@media screen and (max-width: 768px) {
+  .places__paragraph {
+    font-size: 16px;
+  }
+}

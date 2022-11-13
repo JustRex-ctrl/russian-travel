@@ -1,0 +1,9 @@
+.places__text {
+ align-self: start;
+}
+
+@media screen and (max-width: 320px) {
+  .places__text {
+    padding: 0 16px 0 16px;
+  }
+}
