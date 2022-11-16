@@ -3,13 +3,7 @@
   grid-row: 2;
   max-width: 460px;
   width: 100%;
-
-}
-
-@media screen and (max-width: 1024px) {
-  .places__image {
-
-  }
+  align-self: start;
 }
 
 @media screen and (max-width: 768px) {

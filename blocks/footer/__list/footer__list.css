@@ -1,4 +1,12 @@
 .footer__list {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__list {
+    max-width: 158px;
+  }
 }

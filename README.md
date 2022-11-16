@@ -12,6 +12,9 @@
 4. Adaptive layout
 
 ---
+# GitHub Pages
+https://justrex-ctrl.github.io/russian-travel/
+---
 # Планы по доработке
 1. Реализовать возможность смены языка с Ru на Eu;
  
