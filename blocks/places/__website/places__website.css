@@ -1,11 +1,5 @@
 .places__website {
-
-}
-
-@media screen and (max-width: 1024px) {
-  .places__website {
-    padding: 0 0 0 0;
-  }
+  padding: 0;
 }
 
 @media screen and (max-width: 320px) {
