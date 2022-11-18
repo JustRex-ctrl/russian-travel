@@ -4,3 +4,7 @@
   color: white;
   padding-left: 18px;
 }
+
+.header__lang-list:first-child {
+  padding-left: 0;
+}
