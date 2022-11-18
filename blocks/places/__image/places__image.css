@@ -4,6 +4,7 @@
   max-width: 460px;
   width: 100%;
   align-self: start;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 768px) {
